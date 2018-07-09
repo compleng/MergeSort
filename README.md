@@ -1,1 +1,1 @@
-# MergeSort
+# SelectionSort
